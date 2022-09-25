@@ -1,0 +1,1139 @@
+@media (min-width: 500px){
+    #cont1{
+        width: 18%;
+    }
+    #contt1{
+        width: 18%;
+    }
+    #conttt1{
+        width: 18%;
+    }
+    #p1{
+        width: 18%;
+    }
+    #pp{
+        width: 18%;
+    }
+    #pp1{
+        width: 18%;
+    }
+
+}
+
+@media(min-width:375px){
+    #Blateral{
+        width:28%;
+    }
+    #Contenedor{
+        width: 70%;
+        margin-left: 110px;
+        height: 730px;
+    }
+    #barradeszl{
+        width: 100%;
+        height: 170px;
+    }
+    #imagen1{
+        width: 100%;
+        height:170px;
+    }
+    #barradeszl1{
+        width: 100%;
+        height: 130px;
+    }
+    #cont1{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen2{
+        width: 100%;
+        height: 100%;
+    }
+    #cont2{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen3{
+        width: 100%;
+        height: 100%;
+    }
+    #cont3{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen4{
+        width: 100%;
+        height: 100%;
+    }
+    #cont4{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen5{
+        width: 100%;
+        height: 100%;
+    }
+    #cont5{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen6{
+        width: 100%;
+        height: 100%;
+    }
+    #barradeszl2{
+        width: 100%;
+        height: 130px;
+    }
+    #contt1{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen7{
+        width: 100%;
+        height: 100%;
+    }
+    #contt2{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen8{
+        width: 100%;
+        height: 100%;
+    }
+    #contt3{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen9{
+        width: 100%;
+        height: 100%;
+    }
+    #contt4{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen10{
+        width: 100%;
+        height: 100%;
+    }
+    #contt5{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen11{
+        width: 100%;
+        height: 100%;
+    }
+    #barradeszl3{
+        width: 100%;
+        height: 130px;
+    }
+
+    #conttt1{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen12{
+        width: 100%;
+        height: 100%;
+    }
+    #conttt2{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen13{
+        width: 100%;
+        height: 100%;
+    }
+    #conttt3{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen14{
+        width: 100%;
+        height: 100%;
+    }
+    #conttt4{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen15{
+        width: 100%;
+        height: 100%;
+    }
+    #conttt5{
+        margin-top: 28px;
+        height: 80px;
+        width: 16%;
+    }
+    #imagen16{
+        width: 100%;
+        height: 100%;
+    }
+    #precio1{
+        width: 100%;
+        height: 30px;
+    }
+    #p1{
+        width: 16%;
+        height: 20px;
+    }
+    #p2{
+        width: 17%;
+        height: 20px;
+    }
+    #p3{
+        width: 17%;
+        height: 20px;
+    }
+    #p4{
+        width: 17%;
+        height: 20px;
+    }
+    #p5{
+        width: 16%;
+        height: 20px;
+    }
+
+    #precio2{
+        width: 100%;
+        height: 30px;
+    }
+    #pp{
+        width: 16%;
+        height: 20px;
+    }
+    #ps{
+        width: 17%;
+        height: 20px;
+    }
+    #pt{
+        width: 17%;
+        height: 20px;
+    }
+    #pc{
+        width: 17%;
+        height: 20px;
+    }
+    #pcc{
+        width: 16%;
+        height: 20px;
+    }
+
+     #precio2{
+        width: 100%;
+        height: 30px;
+    }
+    #pp{
+        width: 16%;
+        height: 20px;
+    }
+    #ps{
+        width: 17%;
+        height: 20px;
+    }
+    #pt{
+        width: 17%;
+        height: 20px;
+    }
+    #pc{
+        width: 17%;
+        height: 20px;
+    }
+    #pcc{
+        width: 16%;
+        height: 20px;
+    }
+
+    #precio3{
+        width: 100%;
+        height: 30px;
+    }
+    #pp1{
+        width: 16%;
+        height: 20px;
+    }
+    #pp2{
+        width: 17%;
+        height: 20px;
+    }
+    #pp3{
+        width: 17%;
+        height: 20px;
+    }
+    #pp4{
+        width: 17%;
+        height: 20px;
+    }
+    #pp5{
+        width: 16%;
+        height: 20px;
+    }
+    
+    #linsta{
+        width: 33.3%;
+        height: 30px;
+    }
+    #lfaceb{
+        width: 33.3%;
+        height: 30px;
+    }
+    #lwhast{
+        width: 33.3%;
+        height: 30px;
+    }
+    #Pie{
+        height: 30px;
+    }
+    #pie1{
+        width: 25%;
+        height: 30px;
+    }
+    #pie2{
+        width: 50%;
+        height: 30px;
+    }
+    #pie3{
+        width: 25%;
+        height: 30px;
+    }
+
+
+
+
+
+}
+
+@media(min-width: 600px){
+#Contenedor{
+    width: auto;
+    margin-left: 190px;
+}
+#barradeszl{
+    width: 100%;
+    height: 200px;
+}
+#imagen1{
+    width: 100%;
+    height:200px;
+}
+#barradeszl1{
+    width: 100%;
+    height: 140px;
+}
+#cont1{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen2{
+    width: 100%;
+    height: 100%;
+}
+#cont2{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen3{
+    width: 100%;
+    height: 100%;
+}
+#cont3{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen4{
+    width: 100%;
+    height: 100%;
+}
+#cont4{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen5{
+    width: 100%;
+    height: 100%;
+}
+#cont5{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen6{
+    width: 100%;
+    height: 100%;
+}
+#barradeszl2{
+    width: 100%;
+    height: 140px;
+}
+#contt1{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen7{
+    width: 100%;
+    height: 100%;
+}
+#contt2{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen8{
+    width: 100%;
+    height: 100%;
+}
+#contt3{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen9{
+    width: 100%;
+    height: 100%;
+}
+#contt4{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen10{
+    width: 100%;
+    height: 100%;
+}
+#contt5{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen11{
+    width: 100%;
+    height: 100%;
+}
+#barradeszl3{
+    width: 100%;
+    height: 140px;
+}
+
+#conttt1{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen12{
+    width: 100%;
+    height: 100%;
+}
+#conttt2{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen13{
+    width: 100%;
+    height: 100%;
+}
+#conttt3{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen14{
+    width: 100%;
+    height: 100%;
+}
+#conttt4{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen15{
+    width: 100%;
+    height: 100%;
+}
+#conttt5{
+    margin-top: 16px;
+    height: 110px;
+    width: 18%;
+}
+#imagen16{
+    width: 100%;
+    height: 100%;
+}
+#precio1{
+    width: 100%;
+    height: 30px;
+}
+#p1{
+    width: 18%;
+    height: 20px;
+}
+#p2{
+    width: 18%;
+    height: 20px;
+}
+#p3{
+    width: 19%;
+    height: 20px;
+}
+#p4{
+    width: 18%;
+    height: 20px;
+}
+#p5{
+    width: 18%;
+    height: 20px;
+}
+
+#precio2{
+    width: 100%;
+    height: 30px;
+}
+#pp{
+    width: 18%;
+    height: 20px;
+}
+#ps{
+    width: 18%;
+    height: 20px;
+}
+#pt{
+    width: 19%;
+    height: 20px;
+}
+#pc{
+    width: 18%;
+    height: 20px;
+}
+#pcc{
+    width: 18%;
+    height: 20px;
+}
+
+#precio3{
+    width: 100%;
+    height: 30px;
+}
+#pp1{
+    width: 18%;
+    height: 20px;
+}
+#pp2{
+    width: 18%;
+    height: 20px;
+}
+#pp3{
+    width: 19%;
+    height: 20px;
+}
+#pp4{
+    width: 18%;
+    height: 20px;
+}
+#pp5{
+    width: 18%;
+    height: 20px;
+}
+
+#linsta{
+    width: 33.3%;
+    height: 30px;
+}
+#lfaceb{
+    width: 33.3%;
+    height: 30px;
+}
+#lwhast{
+    width: 33.3%;
+    height: 30px;
+}
+#Pie{
+    height: 30px;
+}
+#pie1{
+    width: 20%;
+    height: 30px;
+}
+#pie2{
+    width: 60%;
+    height: 30px;
+}
+#pie3{
+    width: 20%;
+    height: 30px;
+}
+
+}
+
+
+
+@media(min-width: 800px){
+    #Blateral{
+        width: 18%;
+    }
+    #Contenedor{
+        width: auto;
+        margin-left: 165px;
+    }
+    #barradeszl{
+        width: 100%;
+        height: 300px;
+    }
+    #imagen1{
+        width: 100%;
+        height:100%;
+    }
+    #barradeszl1{
+        width: 100%;
+        height: 190px;
+    }
+    #cont1{
+        margin-top: 16px;
+        height: 155px;
+        width: 19%;
+    }
+    #imagen2{
+        width: 100%;
+        height: 100%;
+    }
+    #cont2{
+        margin-top: 16px;
+        height: 155px;
+        width: 18%;
+    }
+    #imagen3{
+        width: 100%;
+        height: 100%;
+    }
+    #cont3{
+        margin-top: 16px;
+        height: 155px;
+        width: 19%;
+    }
+    #imagen4{
+        width: 100%;
+        height: 100%;
+    }
+    #cont4{
+        margin-top: 16px;
+        height: 155px;
+        width: 18%;
+    }
+    #imagen5{
+        width: 100%;
+        height: 100%;
+    }
+    #cont5{
+        margin-top: 16px;
+        height: 155px;
+        width: 19%;
+    }
+    #imagen6{
+        width: 100%;
+        height: 100%;
+    }
+    #barradeszl2{
+        width: 100%;
+        height: 190px;
+    }
+    #contt1{
+        margin-top: 16px;
+        height: 155px;
+        width: 19%;
+    }
+    #imagen7{
+        width: 100%;
+        height: 100%;
+    }
+    #contt2{
+        margin-top: 16px;
+        height: 155px;
+        width: 18%;
+    }
+    #imagen8{
+        width: 100%;
+        height: 100%;
+    }
+    #contt3{
+        margin-top: 16px;
+        height: 155px;
+        width: 19%;
+    }
+    #imagen9{
+        width: 100%;
+        height: 100%;
+    }
+    #contt4{
+        margin-top: 16px;
+        height: 155px;
+        width: 18%;
+    }
+    #imagen10{
+        width: 100%;
+        height: 100%;
+    }
+    #contt5{
+        margin-top: 16px;
+        height: 155px;
+        width: 19%;
+    }
+    #imagen11{
+        width: 100%;
+        height: 100%;
+    }
+    #barradeszl3{
+        width: 100%;
+        height: 190px;
+    }
+    
+    #conttt1{
+        margin-top: 16px;
+        height: 155px;
+        width: 19%;
+    }
+    #imagen12{
+        width: 100%;
+        height: 100%;
+    }
+    #conttt2{
+        margin-top: 16px;
+        height: 155px;
+        width: 18%;
+    }
+    #imagen13{
+        width: 100%;
+        height: 100%;
+    }
+    #conttt3{
+        margin-top: 16px;
+        height: 155px;
+        width: 19%;
+    }
+    #imagen14{
+        width: 100%;
+        height: 100%;
+    }
+    #conttt4{
+        margin-top: 16px;
+        height: 155px;
+        width: 18%;
+    }
+    #imagen15{
+        width: 100%;
+        height: 100%;
+    }
+    #conttt5{
+        margin-top: 16px;
+        height: 155px;
+        width: 19%;
+    }
+    #imagen16{
+        width: 100%;
+        height: 100%;
+    }
+    #precio1{
+        width: 100%;
+        height: 30px;
+    }
+    #p1{
+        width: 19%;
+        height: 20px;
+    }
+    #p2{
+        width: 18%;
+        height: 20px;
+    }
+    #p3{
+        width: 19%;
+        height: 20px;
+    }
+    #p4{
+        width: 18%;
+        height: 20px;
+    }
+    #p5{
+        width: 19%;
+        height: 20px;
+    }
+    
+    #precio2{
+        width: 100%;
+        height: 30px;
+    }
+    #pp{
+        width: 19%;
+        height: 20px;
+    }
+    #ps{
+        width: 18%;
+        height: 20px;
+    }
+    #pt{
+        width: 19%;
+        height: 20px;
+    }
+    #pc{
+        width: 18%;
+        height: 20px;
+    }
+    #pcc{
+        width: 19%;
+        height: 20px;
+    }
+    
+    #precio3{
+        width: 100%;
+        height: 30px;
+    }
+    #pp1{
+        width: 19%;
+        height: 20px;
+    }
+    #pp2{
+        width: 18%;
+        height: 20px;
+    }
+    #pp3{
+        width: 19%;
+        height: 20px;
+    }
+    #pp4{
+        width: 18%;
+        height: 20px;
+    }
+    #pp5{
+        width: 19%;
+        height: 20px;
+    }
+    
+    #linsta{
+        width: 33.3%;
+        height: 30px;
+    }
+    #lfaceb{
+        width: 33.3%;
+        height: 30px;
+    }
+    #lwhast{
+        width: 33.3%;
+        height: 30px;
+    }
+    #Pie{
+        height: 30px;
+    }
+    #pie1{
+        width: 20%;
+        height: 30px;
+    }
+    #pie2{
+        width: 60%;
+        height: 30px;
+    }
+    #pie3{
+        width: 20%;
+        height: 30px;
+    }
+    
+}
+
+
+
+@media(min-width: 1100px){
+    #Blateral{
+        width: 16%;
+    }
+    #Contenedor{
+        width: auto;
+        margin-left: 200px;
+    }
+    #barradeszl{
+        width: 100%;
+        height: 400px;
+    }
+    #imagen1{
+        width: 100%;
+        height:100%;
+    }
+    #barradeszl1{
+        width: 100%;
+        height: 280px;
+    }
+    #cont1{
+        margin-top: 16px;
+        height: 250px;
+        width: 19%;
+        margin-left: 17px;
+    }
+    #imagen2{
+        width: 100%;
+        height: 100%;
+    }
+    #cont2{
+        margin-top: 16px;
+        height: 250px;
+        width: 18%;
+    }
+    #imagen3{
+        width: 100%;
+        height: 100%;
+    }
+    #cont3{
+        margin-top: 16px;
+        height: 250px;
+        width: 19%;
+    }
+    #imagen4{
+        width: 100%;
+        height: 100%;
+    }
+    #cont4{
+        margin-top: 16px;
+        height: 250px;
+        width: 18%;
+    }
+    #imagen5{
+        width: 100%;
+        height: 100%;
+    }
+    #cont5{
+        margin-top: 16px;
+        height: 250px;
+        width: 19%;
+    }
+    #imagen6{
+        width: 100%;
+        height: 100%;
+    }
+    #barradeszl2{
+        width: 100%;
+        height: 280px;
+    }
+    #contt1{
+        margin-top: 16px;
+        height: 250px;
+        width: 19%;
+        margin-left: 15px;
+    }
+    #imagen7{
+        width: 100%;
+        height: 100%;
+    }
+    #contt2{
+        margin-top: 16px;
+        height: 250px;
+        width: 18%;
+    }
+    #imagen8{
+        width: 100%;
+        height: 100%;
+    }
+    #contt3{
+        margin-top: 16px;
+        height: 250px;
+        width: 19%;
+    }
+    #imagen9{
+        width: 100%;
+        height: 100%;
+    }
+    #contt4{
+        margin-top: 16px;
+        height: 250px;
+        width: 18%;
+    }
+    #imagen10{
+        width: 100%;
+        height: 100%;
+    }
+    #contt5{
+        margin-top: 16px;
+        height: 250px;
+        width: 19%;
+    }
+    #imagen11{
+        width: 100%;
+        height: 100%;
+    }
+    #barradeszl3{
+        width: 100%;
+        height: 280px;
+    }
+    
+    #conttt1{
+        margin-top: 16px;
+        height: 250px;
+        width: 19%;
+        margin-left: 15px;
+    }
+    #imagen12{
+        width: 100%;
+        height: 100%;
+    }
+    #conttt2{
+        margin-top: 16px;
+        height: 250px;
+        width: 18%;
+    }
+    #imagen13{
+        width: 100%;
+        height: 100%;
+    }
+    #conttt3{
+        margin-top: 16px;
+        height: 250px;
+        width: 19%;
+    }
+    #imagen14{
+        width: 100%;
+        height: 100%;
+    }
+    #conttt4{
+        margin-top: 16px;
+        height: 250px;
+        width: 18%;
+    }
+    #imagen15{
+        width: 100%;
+        height: 100%;
+    }
+    #conttt5{
+        margin-top: 16px;
+        height: 250px;
+        width: 19%;
+    }
+    #imagen16{
+        width: 100%;
+        height: 100%;
+    }
+    #precio1{
+        width: 100%;
+        height: 30px;
+    }
+    #p1{
+        width: 19%;
+        height: 20px;
+        margin-left: 15px;
+    }
+    #p2{
+        width: 18%;
+        height: 20px;
+    }
+    #p3{
+        width: 19%;
+        height: 20px;
+    }
+    #p4{
+        width: 18%;
+        height: 20px;
+    }
+    #p5{
+        width: 19%;
+        height: 20px;
+    }
+    
+    #precio2{
+        width: 100%;
+        height: 30px;
+    }
+    #pp{
+        width: 19%;
+        height: 20px;
+        margin-left: 15px;
+    }
+    #ps{
+        width: 18%;
+        height: 20px;
+    }
+    #pt{
+        width: 19%;
+        height: 20px;
+    }
+    #pc{
+        width: 18%;
+        height: 20px;
+    }
+    #pcc{
+        width: 19%;
+        height: 20px;
+    }
+    
+    #precio3{
+        width: 100%;
+        height: 30px;
+    }
+    #pp1{
+        width: 19%;
+        height: 20px;
+        margin-left: 15px;
+    }
+    #pp2{
+        width: 18%;
+        height: 20px;
+    }
+    #pp3{
+        width: 19%;
+        height: 20px;
+    }
+    #pp4{
+        width: 18%;
+        height: 20px;
+    }
+    #pp5{
+        width: 19%;
+        height: 20px;
+    }
+    
+    #linsta{
+        width: 33.3%;
+        height: 30px;
+    }
+    #lfaceb{
+        width: 33.3%;
+        height: 30px;
+    }
+    #lwhast{
+        width: 33.3%;
+        height: 30px;
+    }
+    #Pie{
+        height: 30px;
+    }
+    #pie1{
+        width: 20%;
+        height: 30px;
+    }
+    #pie2{
+        width: 60%;
+        height: 30px;
+    }
+    #pie3{
+        width: 20%;
+        height: 30px;
+    }
+    
+}
+
+
+
+
+
